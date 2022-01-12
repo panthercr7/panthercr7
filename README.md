@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey You👋,wasup...
 
-<h1 align="center">Hi 👋, I'm 𝖕𝖆𝖓𝖙𝖍𝖊𝖗𝖈𝖗2𝖔7</h1>
+<h1 align="center">I'm panthercr2o7</h1>
 <h3 align="center">Programmer..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panthercr2o7&label=Profile%20views&color=0e75b6&style=flat" alt="panthercr2o7" /> </p>
