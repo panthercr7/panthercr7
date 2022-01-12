@@ -1,7 +1,7 @@
 ### Hey You👋,wasup?...
 
 ### It's panthercr2o7...
-<h3 align="left">Hmm Well tryin' my level best...👈..in programming</h3>
+<h3 align="left">Hmm..Well, I'm tryin' my level best...👈..in programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panthercr2o7&label=Profile%20views&color=0e75b6&style=flat" alt="panthercr2o7" /> </p>
 
