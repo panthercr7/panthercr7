@@ -2,7 +2,7 @@
 
 ### It's ᴘᴀɴᴛʜᴇʀᴄʀ7...
 <h3 align="left">Hmm..,Well, I'm tryin' my level best...ƪ(˘⌣˘)ʃ...in programming</h3>
-- 📫Reach me @**dthayalan760@gmail.com**
+- 📫  reach me @ **dthayalan760@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
