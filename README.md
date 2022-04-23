@@ -2,9 +2,6 @@
 
 ### It's ᴘᴀɴᴛʜᴇʀᴄʀ7...
 <h3 align="left">Hmm..,Well, I'm tryin' my level best...ƪ(˘⌣˘)ʃ...in programming</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panthercr7&label=Profile%20views&color=0e75b6&style=flat" alt="panthercr7" /> </p>
-
 - 📫Reach me @**dthayalan760@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
