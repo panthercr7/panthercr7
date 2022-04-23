@@ -2,8 +2,6 @@
 
 ### It's ᴘᴀɴᴛʜᴇʀᴄʀ7...
 <h3 align="left">Hmm..,Well, I'm tryin' my level best...ƪ(˘⌣˘)ʃ...in programming</h3>
-- 📫  reach me @ **dthayalan760@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/F5zjm7Mk95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/F5zjm7Mk95" height="30" width="40" /></a>
